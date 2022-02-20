@@ -22,7 +22,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "@types/node": "^14.14.37",
+    "@types/node": "^14.18.9",
     "axios": "^0.21.3",
     "child_process": "^1.0.2",
     "npm": "^7.21.0",
